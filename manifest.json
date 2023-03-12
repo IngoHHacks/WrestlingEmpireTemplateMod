@@ -1,0 +1,10 @@
+{
+  "namespace": "IngoH",
+  "name": "WrestlingEmpireTemplateMod",
+  "description": "This is a template mod for Wrestling Empire",
+  "version_number": "1.0.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_WrestlingEmpire-5.4.21"
+  ],
+  "website_url": "https://github.com/IngoHHacks/WrestlingEmpireTemplateMod"
+}
